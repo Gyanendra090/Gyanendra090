@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Gyanendra090
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Gyanendra Tripathi 
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis with Python
 - 📫 How to reach me ... g21282354@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... What I start I FINISH
 
 <!---
