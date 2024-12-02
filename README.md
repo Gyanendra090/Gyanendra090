@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gyanendra Tripathi 
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis with Python
+- 👀 I’m Python Developer  
+- ⚡ Love Automating Tasks
+- 🌱 I’m currently learning Django and Creating REST Api
 - 📫 How to reach me ... g21282354@gmail.com
 - ⚡ Fun fact: ... What I start I FINISH
 
